@@ -1,0 +1,84 @@
+{
+    "704-448": {
+        "devnote": "bishop",
+        "event": "level-event-bishop",
+        "job": "job_reclaim_zone_scrap_pile",
+        "standArea": [0, 0],
+        "anim": "GroundSit",
+        "standDir": 1
+    },
+
+    "576-704": {
+        "job": "job_reclaim_zone_scrap_pile",
+        "standArea": [0, 0],
+        "anim": "GroundSit",
+        "standDir": 5 
+    },
+
+    "704-640": {
+        "job": "job_reclaim_zone_scrap_pile",
+        "standArea": [0, 0],
+        "anim": "GroundSit",
+        "standDir": 5 
+    },
+    "832-576": {
+        "job": "job_reclaim_zone_scrap_pile",
+        "standArea": [0, 0],
+        "anim": "GroundSit",
+        "standDir": 5 
+    },
+    "960-512": {
+        "job": "job_reclaim_zone_scrap_pile",
+        "standArea": [0, 0],
+        "anim": "GroundSit",
+        "standDir": 5 
+    },
+    "1088-448": {
+        "job": "job_reclaim_zone_scrap_pile",
+        "standArea": [0, 0],
+        "anim": "GroundSit",
+        "standDir": 5 
+    },
+    "768-736": {
+        "job": "job_reclaim_zone_scrap_pile",
+        "standArea": [0, 0],
+        "anim": "GroundSit",
+        "standDir": 5 
+    },
+    "896-672": {
+        "job": "job_reclaim_zone_scrap_pile",
+        "standArea": [0, 0],
+        "anim": "GroundSit",
+        "standDir": 5 
+    },
+    "1024-608": {
+        "job": "job_reclaim_zone_scrap_pile",
+        "standArea": [0, 0],
+        "anim": "GroundSit",
+        "standDir": 5 
+    },
+    "1152-544": {
+        "job": "job_reclaim_zone_scrap_pile",
+        "standArea": [0, 0],
+        "anim": "GroundSit",
+        "standDir": 5 
+    },
+    "960-768": {
+        "job": "job_reclaim_zone_scrap_pile",
+        "standArea": [0, 0],
+        "anim": "GroundSit",
+        "standDir": 5 
+    },
+    "1088-704": {
+        "job": "job_reclaim_zone_scrap_pile",
+        "standArea": [0, 0],
+        "anim": "GroundSit",
+        "standDir": 5 
+    },
+    "1216-640": {
+        "job": "job_reclaim_zone_scrap_pile",
+        "standArea": [0, 0],
+        "anim": "GroundSit",
+        "standDir": 5 
+    }    
+}

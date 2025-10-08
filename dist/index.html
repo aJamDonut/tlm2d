@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="Cross-Origin-Resource-Policy" content="*" />
+    <meta http-equiv="Cross-Origin-Opener-Policy" content="*" />
+    <meta http-equiv="Cross-Origin-Embedder-Policy" content="*" />
+    <meta http-equiv="Access-Control-Allow-Origin" content="*" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tiledoe - PIXI Loader</title>
+    <style>
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+        background: #0e0e10;
+      }
+
+      #log {
+        position: fixed;
+        left: 8px;
+        top: 8px;
+        color: #c9d1d9;
+        font: 12px/1.4 ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+          "Liberation Mono", "Courier New", monospace;
+        background: rgba(0, 0, 0, 0.4);
+        padding: 8px 10px;
+        border-radius: 6px;
+        max-height: 40%;
+        overflow: auto;
+        display: none;
+      }
+      #stage {
+        /* Center the zed2d container perfectly */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+        width: 100%;
+      }
+      #zed2d {
+        border: 1px solid white;
+        width: 1027px;
+        height: 768px;
+      }
+    </style>
+    <script type="module" crossorigin src="/index.js"></script>
+  </head>
+  <body>
+    
+    <div id="stage">
+      <div id="zed2d"></div>
+    </div>
+
+    
+  </body>
+</html>

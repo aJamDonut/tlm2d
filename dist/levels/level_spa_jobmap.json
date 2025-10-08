@@ -1,0 +1,16 @@
+{
+   "576-192": {
+        "devnote": "brown_chair_sw",
+        "job": "job_energy_regen",
+        "standArea": [0, 0],
+        "anim": "GroundSit",
+        "standDir": 3
+    },
+    "256-352": {
+        "devnote": "brown_chair_ne",
+        "job": "job_energy_regen",
+        "standArea": [0, 0],
+        "anim": "GroundSit",
+        "standDir": 7
+    }
+}

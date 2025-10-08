@@ -1,0 +1,10 @@
+{
+    "576-256": {
+        "job": "job_reclaim_zone_scrap_pile",
+        "standArea": [1, 0]
+    },
+    "512-288": {
+        "job": "job_reclaim_zone_scrap_pile",
+        "standArea": [2, 1]
+    }
+}

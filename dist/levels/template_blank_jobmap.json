@@ -1,0 +1,16 @@
+{
+    "576-256": {
+        "job": "job_reclaim_zone_scrap_pile",
+        "standArea": [0, 1],
+        "anim": "Mine",
+        "standDir": 5
+    },
+    "512-288": {
+        "job": "job_reclaim_zone_scrap_pile",
+        "standArea": [1, 1]
+    },
+    "896-480": {
+        "page": "explore",
+        "standArea": [1, -4]
+    }
+}
