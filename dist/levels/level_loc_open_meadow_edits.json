@@ -9,8 +9,7 @@
       "col": 4,
       "row": 34,
       "x": 576,
-      "y": 1152,
-      "page": "stronghold/{id}"
+      "y": 1152
     },
     {
       "codename": "mine",
@@ -19,8 +18,7 @@
       "col": 4,
       "row": 31,
       "x": 640,
-      "y": 1056,
-      "page": "stronghold/{id}"
+      "y": 1056
     },
     {
       "codename": "mine",
@@ -29,8 +27,7 @@
       "col": 5,
       "row": 26,
       "x": 704,
-      "y": 896,
-      "page": "stronghold/{id}"
+      "y": 896
     },
     {
       "codename": "mine",
@@ -39,8 +36,7 @@
       "col": 5,
       "row": 37,
       "x": 768,
-      "y": 1248,
-      "page": "stronghold/{id}"
+      "y": 1248
     },
     {
       "codename": "mine",
@@ -49,8 +45,7 @@
       "col": 6,
       "row": 32,
       "x": 832,
-      "y": 1088,
-      "page": "stronghold/{id}"
+      "y": 1088
     },
     {
       "codename": "mine",
@@ -59,8 +54,7 @@
       "col": 6,
       "row": 27,
       "x": 896,
-      "y": 928,
-      "page": "stronghold/{id}"
+      "y": 928
     },
     {
       "codename": "spawnzone",
@@ -69,38 +63,7 @@
       "col": 10,
       "row": 45,
       "x": 1408,
-      "y": 1504,
-      "page": "stronghold/{id}",
-      "data": {
-        "devnote": "bishop",
-        "event": "level-event-bishop",
-        "job": "job_reclaim_zone_scrap_pile",
-        "standAreaByRot": [
-          [
-            1,
-            -1
-          ],
-          [
-            1,
-            1
-          ],
-          [
-            -1,
-            1
-          ],
-          [
-            -1,
-            -1
-          ]
-        ],
-        "standDirByRot": [
-          3,
-          5,
-          7,
-          1
-        ],
-        "standDir": 1
-      }
+      "y": 1504
     }
   ]
 }
