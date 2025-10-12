@@ -1,8 +1,50 @@
 {
   "version": 1,
-  "createdAt": "2025-10-12T01:55:31.178Z",
+  "createdAt": "2025-10-12T02:29:20.452Z",
   "items": [
     {
+      "realObject": {
+        "codename": "mine",
+        "id": "ID_NOT_SET",
+        "x": 576,
+        "y": 1152,
+        "options": {
+          "standArea": [
+            1,
+            1
+          ],
+          "scene": null,
+          "job": "job_open_meadow_mine_ore",
+          "standAreaByRot": [
+            [
+              1,
+              -1
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              -1,
+              1
+            ],
+            [
+              -1,
+              -1
+            ]
+          ],
+          "standDirByRot": [
+            3,
+            5,
+            7,
+            1
+          ],
+          "anim": "Swing",
+          "standDir": 5,
+          "page": null,
+          "player": null
+        }
+      },
       "codename": "mine",
       "asset": "custom/1x_iso_SE.png",
       "rotation": 1,
@@ -13,6 +55,48 @@
       "page": null
     },
     {
+      "realObject": {
+        "codename": "mine",
+        "id": "ID_NOT_SET",
+        "x": 640,
+        "y": 1056,
+        "options": {
+          "standArea": [
+            1,
+            1
+          ],
+          "scene": null,
+          "job": "job_open_meadow_mine_ore",
+          "standAreaByRot": [
+            [
+              1,
+              -1
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              -1,
+              1
+            ],
+            [
+              -1,
+              -1
+            ]
+          ],
+          "standDirByRot": [
+            3,
+            5,
+            7,
+            1
+          ],
+          "anim": "Swing",
+          "standDir": 5,
+          "page": null,
+          "player": null
+        }
+      },
       "codename": "mine",
       "asset": "custom/1x_iso_SE.png",
       "rotation": 1,
@@ -23,6 +107,48 @@
       "page": null
     },
     {
+      "realObject": {
+        "codename": "mine",
+        "id": "ID_NOT_SET",
+        "x": 704,
+        "y": 896,
+        "options": {
+          "standArea": [
+            1,
+            1
+          ],
+          "scene": null,
+          "job": "job_open_meadow_mine_ore",
+          "standAreaByRot": [
+            [
+              1,
+              -1
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              -1,
+              1
+            ],
+            [
+              -1,
+              -1
+            ]
+          ],
+          "standDirByRot": [
+            3,
+            5,
+            7,
+            1
+          ],
+          "anim": "Swing",
+          "standDir": 5,
+          "page": null,
+          "player": null
+        }
+      },
       "codename": "mine",
       "asset": "custom/1x_iso_SE.png",
       "rotation": 1,
@@ -33,6 +159,48 @@
       "page": null
     },
     {
+      "realObject": {
+        "codename": "mine",
+        "id": "ID_NOT_SET",
+        "x": 768,
+        "y": 1248,
+        "options": {
+          "standArea": [
+            1,
+            1
+          ],
+          "scene": null,
+          "job": "job_open_meadow_mine_ore",
+          "standAreaByRot": [
+            [
+              1,
+              -1
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              -1,
+              1
+            ],
+            [
+              -1,
+              -1
+            ]
+          ],
+          "standDirByRot": [
+            3,
+            5,
+            7,
+            1
+          ],
+          "anim": "Swing",
+          "standDir": 5,
+          "page": null,
+          "player": null
+        }
+      },
       "codename": "mine",
       "asset": "custom/1x_iso_SE.png",
       "rotation": 1,
@@ -43,6 +211,48 @@
       "page": null
     },
     {
+      "realObject": {
+        "codename": "mine",
+        "id": "ID_NOT_SET",
+        "x": 832,
+        "y": 1088,
+        "options": {
+          "standArea": [
+            1,
+            1
+          ],
+          "scene": null,
+          "job": "job_open_meadow_mine_ore",
+          "standAreaByRot": [
+            [
+              1,
+              -1
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              -1,
+              1
+            ],
+            [
+              -1,
+              -1
+            ]
+          ],
+          "standDirByRot": [
+            3,
+            5,
+            7,
+            1
+          ],
+          "anim": "Swing",
+          "standDir": 5,
+          "page": null,
+          "player": null
+        }
+      },
       "codename": "mine",
       "asset": "custom/1x_iso_SE.png",
       "rotation": 1,
@@ -53,6 +263,48 @@
       "page": null
     },
     {
+      "realObject": {
+        "codename": "mine",
+        "id": "ID_NOT_SET",
+        "x": 896,
+        "y": 928,
+        "options": {
+          "standArea": [
+            1,
+            1
+          ],
+          "scene": null,
+          "job": "job_open_meadow_mine_ore",
+          "standAreaByRot": [
+            [
+              1,
+              -1
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              -1,
+              1
+            ],
+            [
+              -1,
+              -1
+            ]
+          ],
+          "standDirByRot": [
+            3,
+            5,
+            7,
+            1
+          ],
+          "anim": "Swing",
+          "standDir": 5,
+          "page": null,
+          "player": null
+        }
+      },
       "codename": "mine",
       "asset": "custom/1x_iso_SE.png",
       "rotation": 1,
@@ -63,6 +315,46 @@
       "page": null
     },
     {
+      "realObject": {
+        "codename": "spawnzone",
+        "id": "ID_NOT_SET",
+        "x": 1408,
+        "y": 1504,
+        "options": {
+          "standArea": [
+            1,
+            -1
+          ],
+          "scene": null,
+          "standAreaByRot": [
+            [
+              1,
+              -1
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              -1,
+              1
+            ],
+            [
+              -1,
+              -1
+            ]
+          ],
+          "standDirByRot": [
+            3,
+            5,
+            7,
+            1
+          ],
+          "standDir": 3,
+          "page": null,
+          "player": null
+        }
+      },
       "codename": "spawnzone",
       "asset": "custom/1x_iso_NE.png",
       "rotation": 0,
@@ -73,6 +365,130 @@
       "page": null
     },
     {
+      "realObject": {
+        "codename": "questgiver",
+        "id": "2-036143803",
+        "x": 1216,
+        "y": 704,
+        "options": {
+          "standArea": [
+            1,
+            1
+          ],
+          "scene": null,
+          "page": "/quests/{questName}",
+          "standAreaByRot": [
+            [
+              1,
+              -1
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              -1,
+              1
+            ],
+            [
+              -1,
+              -1
+            ]
+          ],
+          "standDirByRot": [
+            3,
+            5,
+            7,
+            1
+          ],
+          "anim": "Idle",
+          "standDir": 5,
+          "questName": "quest_myena",
+          "player": null
+        }
+      },
+      "codename": "questgiver",
+      "asset": "custom/1x_iso_SE.png",
+      "rotation": 1,
+      "col": 9,
+      "row": 20,
+      "x": 1216,
+      "y": 704,
+      "page": null,
+      "data": {
+        "page": "/quests/{questName}",
+        "standAreaByRot": [
+          [
+            1,
+            -1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            -1,
+            1
+          ],
+          [
+            -1,
+            -1
+          ]
+        ],
+        "standDirByRot": [
+          3,
+          5,
+          7,
+          1
+        ],
+        "anim": "Idle",
+        "standDir": 1,
+        "questName": "quest_tutorial"
+      }
+    },
+    {
+      "realObject": {
+        "codename": "questgiver",
+        "id": "3-036156118",
+        "x": 1792,
+        "y": 672,
+        "options": {
+          "standArea": [
+            -1,
+            1
+          ],
+          "scene": null,
+          "page": "/quests/{questName}",
+          "standAreaByRot": [
+            [
+              1,
+              -1
+            ],
+            [
+              1,
+              1
+            ],
+            [
+              -1,
+              1
+            ],
+            [
+              -1,
+              -1
+            ]
+          ],
+          "standDirByRot": [
+            3,
+            5,
+            7,
+            1
+          ],
+          "anim": "Idle",
+          "standDir": 7,
+          "questName": "quest_tutorial",
+          "player": null
+        }
+      },
       "codename": "questgiver",
       "asset": "custom/1x_iso_SW.png",
       "rotation": 2,
@@ -80,16 +496,6 @@
       "row": 19,
       "x": 1792,
       "y": 672,
-      "page": null
-    },
-    {
-      "codename": "questgiver",
-      "asset": "custom/1x_iso_SE.png",
-      "rotation": 1,
-      "col": 8,
-      "row": 15,
-      "x": 1152,
-      "y": 544,
       "page": null,
       "data": {
         "page": "/quests/{questName}",
