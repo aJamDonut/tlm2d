@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "createdAt": "2025-10-10T15:55:22.155Z",
+  "createdAt": "2025-10-12T01:04:55.224Z",
   "items": [
     {
       "codename": "mine",
@@ -9,7 +9,8 @@
       "col": 4,
       "row": 34,
       "x": 576,
-      "y": 1152
+      "y": 1152,
+      "page": null
     },
     {
       "codename": "mine",
@@ -18,7 +19,8 @@
       "col": 4,
       "row": 31,
       "x": 640,
-      "y": 1056
+      "y": 1056,
+      "page": null
     },
     {
       "codename": "mine",
@@ -27,7 +29,8 @@
       "col": 5,
       "row": 26,
       "x": 704,
-      "y": 896
+      "y": 896,
+      "page": null
     },
     {
       "codename": "mine",
@@ -36,7 +39,8 @@
       "col": 5,
       "row": 37,
       "x": 768,
-      "y": 1248
+      "y": 1248,
+      "page": null
     },
     {
       "codename": "mine",
@@ -45,7 +49,8 @@
       "col": 6,
       "row": 32,
       "x": 832,
-      "y": 1088
+      "y": 1088,
+      "page": null
     },
     {
       "codename": "mine",
@@ -54,7 +59,8 @@
       "col": 6,
       "row": 27,
       "x": 896,
-      "y": 928
+      "y": 928,
+      "page": null
     },
     {
       "codename": "spawnzone",
@@ -63,7 +69,47 @@
       "col": 10,
       "row": 45,
       "x": 1408,
-      "y": 1504
+      "y": 1504,
+      "page": null
+    },
+    {
+      "codename": "questgiver",
+      "asset": "custom/1x_iso_SW.png",
+      "rotation": 2,
+      "col": 13,
+      "row": 19,
+      "x": 1792,
+      "y": 672,
+      "page": null,
+      "data": {
+        "page": "/quests/quest_tutorial",
+        "standAreaByRot": [
+          [
+            1,
+            -1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            -1,
+            1
+          ],
+          [
+            -1,
+            -1
+          ]
+        ],
+        "standDirByRot": [
+          3,
+          5,
+          7,
+          1
+        ],
+        "anim": "Idle",
+        "standDir": 1
+      }
     }
   ]
 }
